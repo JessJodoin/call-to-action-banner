@@ -41,14 +41,16 @@ body {
 
 .btn-big {
   display: inline-block;
-  margin-left: 2rem;
 }
 
 .logo {
-  display: block;
-  width: 100%;
+  display: inline-block;
 }
 
+.img-logo {
+  display: inline-block;
+  width: 100%;
+}
 
 .banner-title {
   margin: .5rem 0 1.5rem;
