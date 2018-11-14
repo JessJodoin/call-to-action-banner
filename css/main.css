@@ -28,8 +28,8 @@ body {
   max-width: 45em;
   width: 100%;
   position: absolute;
-  top: 8%;
   left: 50%;
+  top: 10%;
   transform: translateX(-50%);
 
   display: flex;
@@ -39,9 +39,15 @@ body {
   margin: 0 .5rem;
 }
 
+.img-logo {
+  width: 100%;
+  margin-bottom: 2.5rem;
+}
+
 .logo {
   display: inline-block;
-  padding-right: 1.5rem;
+  padding: 0 1.5rem;
+  width: 100%;
 }
 
 .btn-big {
