@@ -35,24 +35,24 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
-  margin: 0 .5rem;
+  align-items: flex-start;
+  margin-left: .75rem;
 }
 
 .img-logo {
-  width: 100%;
-  margin-bottom: 2.5rem;
+  margin-right: 1.5em;
+  width: 50%;
 }
 
 .logo {
   display: inline-block;
-  padding: 0 1.5rem;
   width: 100%;
 }
 
 .btn-big {
   display: inline-block;
-  padding: 0 1rem;
+  margin: 0 1.5rem;
+  padding-right: .5em;
 }
 
 .banner-title {
