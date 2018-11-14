@@ -29,14 +29,14 @@ body {
   width: 100%;
   position: absolute;
   left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  top: 40%;
+  transform: translate(-50%, -40%);
 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  margin-left: .75rem;
+  margin: 0 .75rem;
 }
 
 .img-logo {
@@ -54,7 +54,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   margin: 0 1.5rem;
-  padding-right: .5em;
+  width: 30em;
 }
 
 .banner-title {
