@@ -35,7 +35,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-content: center;
+  align-items: center;
   margin: 0 .5rem;
 }
 
@@ -52,7 +52,6 @@ body {
 .banner-title {
   display: inline-block;
   margin: 0;
-
 
   font-family: "Roboto Condensed", sans-serif;
   font-size: 3rem;
