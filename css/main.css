@@ -41,6 +41,7 @@ body {
 
 .img-logo {
   margin-right: 1.5em;
+  padding: 0 1em 0;
   width: 50%;
 }
 
@@ -53,7 +54,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin: 0 1.5rem;
+  margin-right: 1.5rem;
   width: 30em;
 }
 
@@ -79,7 +80,7 @@ body {
 .btn {
   display: inline-block;
   margin: 0 0 .5rem;
-  padding: .75em;
+  padding: .72em;
 
   font-family: Roboto, sans-serif;
   font-size: 1.5rem;
